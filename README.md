@@ -1,2 +1,2 @@
-# ParOImparRev02
+# NumerosMenorAMayor
 Created with CodeSandbox
